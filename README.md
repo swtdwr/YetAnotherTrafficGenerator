@@ -1,2 +1,2 @@
 # YetAnotherTrafficGenerator
-A simple link visit generator from different proxies
+Just asimple link visit generator from different proxies
